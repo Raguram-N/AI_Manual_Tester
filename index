@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>AI Manual Tester</title>
+  <title>AI Manual Tester – Just Click</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -100,7 +100,7 @@
 <body>
 
 <header>
-  <h1>Virtual Manual Tester</h1>
+  <h1>AI Manual Tester – Just Click</h1>
   <small>(AI Agent: Detect bugs 🕵️‍♂️)</small>
 </header>
 
