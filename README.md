@@ -25,9 +25,9 @@
   <li>Outputs a detailed test report, downloadable for sharing or auditing.</li>
 </ol>
 
-<h2>Sample Test result report</h2>
+<h2>Sample Test Steps Intruction</h2>
 <p>
-  <a href="Test Steps Instruction.pdf.pdf" target="_blank">📄 View the sample Test Case intructionfor testing dummy e-Commerse website (PDF)</a>
+  <a href="Test Steps Instruction.pdf" target="_blank">📄 View the sample Test Case intructionfor testing dummy e-Commerse website (PDF)</a>
 </p>
 
 <h2>Sample Test result report</h2>
