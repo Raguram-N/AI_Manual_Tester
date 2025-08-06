@@ -5,10 +5,6 @@
 <h2>🧠 Overview</h2>
 <p><strong>AI Manual Tester – Just Click</strong> is a smart web-based tool designed to simulate human-like manual testing using AI-driven logic. By simply uploading a blueprint and selecting a test type, the tool automatically analyzes the application, executes tests through intelligent flows, and generates clean, downloadable reports — all without writing a single line of Selenium code.</p>
 
-<h2>Sample Test result report</h2>
-<p>
-  <a href="Test Report PDF.pdf" target="_blank">📄 View the sample Test Report of dummy e-Commerse website (PDF)</a>
-</p>
 
 <h2>🔍 Key Features</h2>
 <ul>
@@ -28,6 +24,16 @@
   <li>Tool uses AI logic and test heuristics to simulate manual test cases.</li>
   <li>Outputs a detailed test report, downloadable for sharing or auditing.</li>
 </ol>
+
+<h2>Sample Test result report</h2>
+<p>
+  <a href="Test Steps Instruction.pdf.pdf" target="_blank">📄 View the sample Test Case intructionfor testing dummy e-Commerse website (PDF)</a>
+</p>
+
+<h2>Sample Test result report</h2>
+<p>
+  <a href="Test Report PDF.pdf" target="_blank">📄 View the sample Test Report of dummy e-Commerse website (PDF)</a>
+</p>
 
 <h2>📦 Tech Stack</h2>
 <ul>
