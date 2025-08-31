@@ -2,7 +2,8 @@
 <p><strong>Your AI-powered copilot for intelligent manual testing.</strong></p>
 <p><strong>https://raguram-n.github.io/AI_Manual_Tester/</strong></p>
 </p>
-<p>Sample dummy site for experimental purpose : https://raguram-n.github.io/Shop_X/</strong></p>
+<p><strong>Sample dummy site for experimental purpose.</strong></p>
+<p> https://raguram-n.github.io/Shop_X/</strong></p>
 </p>
 
 <h2>🧠 Overview</h2>
