@@ -2,6 +2,8 @@
 <p><strong>Your AI-powered copilot for intelligent manual testing.</strong></p>
 <p><strong>https://raguram-n.github.io/AI_Manual_Tester/</strong></p>
 </p>
+<p>Sample dummy site for experimental purpose : https://raguram-n.github.io/Shop_X/</strong></p>
+</p>
 
 <h2>🧠 Overview</h2>
 <p><strong>AI Manual Tester – Just Click</strong> is a smart web-based tool designed to simulate human-like manual testing using AI-driven logic. By simply uploading a blueprint and selecting a test type, the tool automatically analyzes the application, executes tests through intelligent flows, and generates clean, downloadable reports — all without writing a single line of Selenium code.</p>
