@@ -2,6 +2,9 @@
 <p><strong>Your AI-powered copilot for intelligent manual testing.</strong></p>
 <p><strong>https://raguram-n.github.io/AI_Manual_Tester/</strong></p>
 </p>
+<p><strong>AI Manual Tester Sample Video</strong></p>
+<p><strong>https://github.com/Raguram-N/AI_Manual_Tester/blob/main/AI%20manual%20tester%20Sample%20vedio.mp4</strong></p>
+
 <p><strong>Sample dummy site for experimental purpose.</strong></p>
 <p> https://raguram-n.github.io/Shop_X/</strong></p>
 </p>
