@@ -1,5 +1,6 @@
-# Simple, clean, user-friendly workflow for testers
-# 🚀 AI Manual Tester – Just Click
+
+# 🚀 Just Click - AI Manual Tester  
+## Simple, clean, user-friendly workflow for testers
 **Your AI-powered copilot for intelligent manual testing.**
 
 Live Demo: [AI Manual Tester](https://raguram-n.github.io/AI_Manual_Tester/)  
