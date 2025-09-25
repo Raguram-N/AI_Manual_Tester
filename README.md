@@ -3,9 +3,9 @@
 ## Simple, clean, user-friendly workflow for testers
 **Your AI-powered copilot for intelligent manual testing.**
 
-Live Demo: [AI Manual Tester](https://raguram-n.github.io/AI_Manual_Tester/)  
-Sample Video: [Watch here](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/AI%20manual%20tester%20Sample%20vedio.mp4)  
-Sample Dummy Site: [Shop_X](https://raguram-n.github.io/Shop_X/)
+- Live Demo: [AI Manual Tester](https://raguram-n.github.io/AI_Manual_Tester/)  
+- Sample Video: [Watch here](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/AI%20manual%20tester%20Sample%20vedio.mp4)  
+- Sample Dummy Site for testing purpose: [Shop_X](https://raguram-n.github.io/Shop_X/)
 
 ---
 
@@ -15,9 +15,9 @@ Sample Dummy Site: [Shop_X](https://raguram-n.github.io/Shop_X/)
 
 It’s late evening at the Amazon office. One of my friend's screen glows softly, and his desk is scattered with half-empty coffee cups. He is staring at the same login page… again.
 
-Click Login → Enter password → Submit → Check result.→ **Pass.**  
+Click Login → Enter password → Submit → Check result → **Pass.**  
 
-Next test case - **Fail.**  
+Next test case → **Fail.**  
 
 And then again. And again. And again.
 
