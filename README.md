@@ -81,5 +81,15 @@ The goal was to make testing accessible to non-technical users.
 
 ---
 
+## 🌟 UX Recommendations & Audit (3rd Party / Buggy Rating website)
+
+I conducted a UX audit for a third-party website (Go Quant) to highlight usability issues and propose improvements. This demonstrates my ability to analyze existing workflows and recommend actionable design solutions.
+
+Website : [Buggy Rating website ](https://buggy.justtestit.org/)
+
+Sample UX Audit: [Buggy Rating website UX recommendation](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/UX%20Optimization%20Guide.md)
+
+
+
 ## 🌟 Vision
 To empower testers, developers, and QA teams with an **agentic AI system** that reduces manual effort, ensures test coverage, and allows instant validation with minimal setup.
