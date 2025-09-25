@@ -27,7 +27,7 @@ Every day he felt like the same cycle:
 - Note the same pass/fail outcomes.  
 - Generate reports that looked almost copy-pasted.
 
-He strucks on Loop.
+He was stuck in a loop
 
 **⚡Then, an idea sparked**
 
@@ -35,7 +35,7 @@ He strucks on Loop.
 > One that runs his repetitive test cases 
 > so he could focus on the testing that truly requires a human mind?”
 
-**💥 The moment **Just Click** was born.**
+**💥 The moment "Just Click" was born.**
 
 ---
 
