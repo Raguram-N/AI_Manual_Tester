@@ -9,11 +9,11 @@ Sample Dummy Site: [Shop_X](https://raguram-n.github.io/Shop_X/)
 
 ---
 
-## ✨ My Story – The Spark 
+## ✨ The Story – The Spark 
 
-Picture this:
+**Picture this:**
 
-It’s late evening at the Amazon office. My screen glows softly, and my desk is scattered with half-empty coffee cups. I’m staring at the same login page… again.
+It’s late evening at the Amazon office. One of my friend's screen glows softly, and his desk is scattered with half-empty coffee cups. He is staring at the same login page… again.
 
 Click Login → Enter password → Submit → Check result.→ **Pass.**  
 
@@ -21,19 +21,19 @@ Next test case - **Fail.**
 
 And then again. And again. And again.
 
-Every day felt like the same cycle:
+Every day he felt like the same cycle:
 
 - Repeat identical test steps.  
 - Note the same pass/fail outcomes.  
 - Generate reports that looked almost copy-pasted.
 
-I wasn’t solving problems anymore — I was just on Loop. The most frustrating part? I knew my mind could do more. I wanted to **think, analyze, and improve**, but the repetitive grind stole my time.
+He struck on Loop.
 
-Then, a thought hit me like a spark ⚡:
+**⚡Then, an idea sparked — to build a product:**
 
-> “What if a tool could act as my copilot?  
-> One that runs these repetitive test cases for me…  
-> so I could focus on the testing that truly requires a human mind?”
+> “What if a tool could act as a copilot?  
+> One that runs his repetitive test cases 
+> so he could focus on the testing that truly requires a human mind?”
 
  - The moment **Just Click** was born.
 
