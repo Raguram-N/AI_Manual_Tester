@@ -87,9 +87,9 @@ I conducted a UX audit for a third-party website (Go Quant) to highlight usabili
 
 Website : [Buggy Rating website ](https://buggy.justtestit.org/)
 
-Sample UX Audit: [Buggy Rating website UX recommendation](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/UX%20Optimization%20Guide.md)
+Sample UX Audit: [click](https://github.com/Raguram-N/-GoQuant_assignment/blob/main/UX%20Optimization%20Guide.md)
 
 
 
-## 🌟 Vision
+## 🌟 Product Vision
 To empower testers, developers, and QA teams with an **agentic AI system** that reduces manual effort, ensures test coverage, and allows instant validation with minimal setup.
