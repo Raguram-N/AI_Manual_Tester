@@ -27,15 +27,15 @@ Every day he felt like the same cycle:
 - Note the same pass/fail outcomes.  
 - Generate reports that looked almost copy-pasted.
 
-He struck on Loop.
+He strucks on Loop.
 
-**⚡Then, an idea sparked — to build a product:**
+**⚡Then, an idea sparked**
 
 > “What if a tool could act as a copilot?  
 > One that runs his repetitive test cases 
 > so he could focus on the testing that truly requires a human mind?”
 
- - The moment **Just Click** was born.
+**💥 The moment **Just Click** was born.**
 
 ---
 
@@ -120,4 +120,4 @@ To empower testers, developers, and QA teams with an **agentic AI system** that 
 ---
 ## 🔑 Takeaway
 
-**“Problems → reveal opportunities → spark innovation → build products”**
+**“Problems → reveal opportunities → spark innovation → build products → Enhance Productivity”**
