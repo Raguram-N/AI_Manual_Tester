@@ -4,7 +4,7 @@
 **Your AI-powered copilot for intelligent manual testing.**
 
 - Live Demo: [AI Manual Tester](https://raguram-n.github.io/AI_Manual_Tester/)  
-- Sample Video: [Watch here](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/AI%20manual%20tester%20Sample%20vedio.mp4)  
+- Sample Video: [Watch here](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/AI%20manual%20tester%20Sample%20vedio.mp4) - (Click "view raw" to download the video)
 - Sample Dummy Site for testing purpose: [Shop_X](https://raguram-n.github.io/Shop_X/)
 
 ---
