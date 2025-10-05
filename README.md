@@ -11,6 +11,15 @@
 
 ## ✨ The Story – The Spark 
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="just click.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 **Picture this:**
 
 It’s late evening at the Amazon office. One of my friend's screen glows softly, and his desk is scattered with half-empty coffee cups. He is staring at the same login page… again.
@@ -36,6 +45,12 @@ He was stuck in a loop
 > so he could focus on the testing that truly requires a human mind?”
 
 **💥 The moment "Just Click" was born.**
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
