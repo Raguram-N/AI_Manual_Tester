@@ -80,6 +80,15 @@ By using this tool, testers can focus on interpreting results and improving user
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="just click innovation.png" width="120%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🔍 Key Features
 - **🖱️ One-Click Testing** – Upload your design file and click to test. No scripting required.  
 - **🔧 Multiple Test Types** – Sanity, Smoke, Regression, UI/UX, Blocker Check, or Full End-to-End testing.  
@@ -87,6 +96,10 @@ By using this tool, testers can focus on interpreting results and improving user
 - **🌐 URL Validation** – Automatically verifies whether the provided URL is reachable before testing.  
 - **✅ Auto-Test Summary** – Generates instant, human-readable reports with key checkpoints and notes.  
 - **⬇️ Report Download** – Get your full testing report as a .txt file with just one click.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,6 +109,7 @@ By using this tool, testers can focus on interpreting results and improving user
 3. Selects test type (Sanity, Smoke, etc.)  
 4. Tool uses AI logic and test heuristics to simulate manual test cases  
 5. Outputs a detailed test report, downloadable for sharing or auditing
+
 
 ---
 
